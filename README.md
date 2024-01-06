@@ -1,4 +1,4 @@
-a moon pack for lethal company
+a moon pack for lethal company with the moons "pearl" and "satus"
 how to install:
 1) install overwolf appstore
 2) inside of overwolf download thunderstore
